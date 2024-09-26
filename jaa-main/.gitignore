@@ -1,0 +1,75 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.zip
+*.tar.gz
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+jaa_env/
+env/
+ENV/
+.venv/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Migrations
+migrations/
+
+# FastAPI specific
+*.pyd
+*.pyc
+
+# MyPy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# Other IDEs and editors
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
